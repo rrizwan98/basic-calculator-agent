@@ -1,0 +1,15 @@
+# OpenAI Agents SDK
+openai-agents>=0.7.0
+
+# ChatKit Python (official package for ChatKit protocol)
+openai-chatkit>=1.5.0
+
+# FastAPI and ASGI server
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Data validation
+pydantic>=2.6.0
